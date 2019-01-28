@@ -1,0 +1,2 @@
+# spark_streaming_outOfRangeException
+solve kafka common OffsetOutOfRangeExpection
